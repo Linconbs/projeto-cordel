@@ -11,9 +11,10 @@ html, body {
 }
 
 header {
-    background-color: black;
-    color: white;
+    background-color: #23c7d9bb;
+    color: #D9C84E;
     text-align: center;
+    font-weight: bolder;
 }
 
 header > h1 {
@@ -26,7 +27,7 @@ header > p {
 }
 
 a {
-    color: white;
+    color: #70661ac4;
     text-decoration: none;
     font-weight: bolder;
 }
